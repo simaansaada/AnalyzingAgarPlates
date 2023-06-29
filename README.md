@@ -6,3 +6,6 @@ We have successfully implemented a combination of algorithms that detects and co
 
 
 Coming soon...
+
+
+Want to contibure to this project? Send me an email at [simaan.saada@gmail.com](mailto:simaan.saada@gmail.com)
